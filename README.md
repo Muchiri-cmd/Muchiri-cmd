@@ -7,12 +7,6 @@
 👯 **Open to collaborations on:** Hackathons, Open Source, Startups, and SaaS Projects  
 📫 **How to reach me:** davismuchiri21@gmail.com  
 
----
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davis-muchiri-b4991b251)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/davisdevelops)
----
-
 # 💻 Tools of Trade:
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
