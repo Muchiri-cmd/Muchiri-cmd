@@ -1,6 +1,6 @@
-[![](https://visitcount.itsvg.in/api?id=Muchiri-cmd&icon=4&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Muchiri-cmd&icon=4&color=0)](https://visitcount.itsvg.in)-->
 
-# Hi there! 👋 I'm Davis Muchiri
+# Hi there! 👋 I'm Davis , Software Dev.
 
 🔭 **Currently working on:** Web and Mobile Apps  
 🌱 **Currently learning:** AI/ML  
@@ -8,15 +8,12 @@
 📫 **How to reach me:** davismuchiri21@gmail.com  
 
 ---
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davis-muchiri-b4991b251)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/davisdevelops)
-
 ---
 
 # 💻 Tech Stack:
-
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -29,6 +26,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -52,9 +51,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muchiri-cmd&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-
+<!--
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Muchiri-cmd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
+-->
