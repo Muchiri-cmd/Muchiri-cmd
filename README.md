@@ -3,7 +3,7 @@
 # Hi there! 👋 I'm Davis , Software Dev.
 
 🔭 **Currently working on:** Web and Mobile Apps  
-🌱 **Currently learning:** AI/ML  
+🌱 **Currently learning:** AI agents
 👯 **Open to collaborations on:** Hackathons, Open Source, Startups, and SaaS Projects  
 📫 **How to reach me:** davismuchiri21@gmail.com  
 
